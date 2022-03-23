@@ -1,2 +1,2 @@
 # Statistics-exercises
-Projects done for the collage subject probability calculus and statistics 
+Projects done for the college course probability calculus and statistics 
